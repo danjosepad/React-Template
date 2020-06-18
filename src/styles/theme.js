@@ -13,15 +13,13 @@ export const colors = {
   dimGray: "#696969",
   lightSlateGray: "#778899",
   SlateGray: "#708090",
-  darkSlateGray: "#2F4F4F",
   black: "#000000",
 
-  cyan: "#01BAEF",
-  usafaBlue: "#004E89",
-  sapphire: "#0B4F6C",
-  
-  orangeEngineering: "#B80C09",
-  orangeCrayola: "#FF6B35",
-
-  richBlack: "#040F16",
+  //Default colors
+  primary: "#1976D2",
+  secondary: "#DC004E",
+  error: "#F44336",
+  warning: "#FF9800",
+  info: "#2196F3",
+  success: "#4CAF50"
 }
